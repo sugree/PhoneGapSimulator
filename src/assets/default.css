@@ -46,66 +46,66 @@ DebugPanel {
 }
 
 .buttonVertical {
-	icon: Embed( "assets/debug/icon_vertical.png"); 		
+	icon: Embed( "/assets/debug/icon_vertical.png"); 		
 }
 
 .buttonHorizontal {
-	icon: Embed( "assets/debug/icon_horizontal.png"); 		
+	icon: Embed( "/assets/debug/icon_horizontal.png"); 		
 }
 
 .buttonRotateC {
-	icon: Embed( "assets/debug/icon_rotate_c.png"); 	
+	icon: Embed( "/assets/debug/icon_rotate_c.png"); 	
 }
 
 .buttonRotateCCW {
-	icon: Embed( "assets/debug/icon_rotate_ccw.png"); 	
+	icon: Embed( "/assets/debug/icon_rotate_ccw.png"); 	
 }
 
 .buttonVibe {
-	icon: Embed( "assets/debug/icon_vibe.png"); 	
+	icon: Embed( "/assets/debug/icon_vibe.png"); 	
 }
 
 .buttonSound {
-	icon: Embed( "assets/debug/icon_sound.png"); 	
+	icon: Embed( "/assets/debug/icon_sound.png"); 	
 }
 
 .buttonCamera {
-	icon: Embed( "assets/debug/icon_camera.png"); 	
+	icon: Embed( "/assets/debug/icon_camera.png"); 	
 }
 
 .buttonMap {
-	icon: Embed( "assets/debug/icon_map.png"); 	
+	icon: Embed( "/assets/debug/icon_map.png"); 	
 }
 
 .buttonNitobi {
-	icon: Embed( "assets/debug/logo_nitobi.png"); 	
+	icon: Embed( "/assets/debug/logo_nitobi.png"); 	
 }
 
 .buttonGo {
-	icon: Embed( "assets/debug/icon_go.png"); 	
+	icon: Embed( "/assets/debug/icon_go.png"); 	
 }
 
 .buttonFile {
-	icon: Embed( "assets/debug/icon_file.png"); 	
+	icon: Embed( "/assets/debug/icon_file.png"); 	
 }
 
 .buttonFireBug {
-	icon: Embed( "assets/debug/icon_firebug.png"); 	
+	icon: Embed( "/assets/debug/icon_firebug.png"); 	
 }
 
 .buttonPhoneGap {
-	icon: Embed( "assets/debug/logo_phonegap.png"); 	
+	icon: Embed( "/assets/debug/logo_phonegap.png"); 	
 }
 
 
 .buttonClose {
 	top: 6;	left: 6;
-	skin: Embed( "assets/debug/button_close.png"); 
-	overSkin: Embed( "assets/debug/button_close_over.png"); 
+	skin: Embed( "/assets/debug/button_close.png"); 
+	overSkin: Embed( "/assets/debug/button_close_over.png"); 
 }
 
 .buttonMenu {
-	skin: Embed( "assets/debug/button_menu.png"); 
+	skin: Embed( "/assets/debug/button_menu.png"); 
 }
 
 .labelWhite {

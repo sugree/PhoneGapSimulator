@@ -2,8 +2,8 @@
 <mx:WindowedApplication 
 	xmlns:mx="http://www.adobe.com/2006/mxml" 
 	layout="absolute"
-	width="{Util.getWidth(app.edgeL, app.rotation, app.edgeD)}" 
-	height="{app.height}" 
+	width="1024" 
+	height="768" 
 	autoExit="true" 
 	scaleX="{app.scale}" scaleY="{app.scale}"
 	showGripper="false" showTitleBar="false" showStatusBar="false"

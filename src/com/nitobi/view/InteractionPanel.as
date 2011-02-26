@@ -34,22 +34,22 @@ package com.nitobi.view
 		private const IPHONE_HEIGHT:int = 225;
 		private const IPHONE_DEPTH:int = 24;
 		
-		[Embed(source="assets/iphone3d/front.png")]
+		[Embed(source="/assets/iphone3d/front.png")]
 		private static const SKIN_FRONT:Class;
 		
-		[Embed(source="assets/iphone3d/left.png")]
+		[Embed(source="/assets/iphone3d/left.png")]
 		private static const SKIN_LEFT:Class;
 		
-		[Embed(source="assets/iphone3d/right.png")]
+		[Embed(source="/assets/iphone3d/right.png")]
 		private static const SKIN_RIGHT:Class;
 		
-		[Embed(source="assets/iphone3d/back.png")]
+		[Embed(source="/assets/iphone3d/back.png")]
 		private static const SKIN_BACK:Class;
 		
-		[Embed(source="assets/iphone3d/top.png")]
+		[Embed(source="/assets/iphone3d/top.png")]
 		private static const SKIN_TOP:Class;
 		
-		[Embed(source="assets/iphone3d/bottom.png")]
+		[Embed(source="/assets/iphone3d/bottom.png")]
 		private static const SKIN_BOTTOM:Class;
 		
 		private var lastRotationX:Number = 0;

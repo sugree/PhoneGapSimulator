@@ -10,6 +10,14 @@ PhoneGapSimulator
 Download, install, play...
 ---
 
+Build
+===
+
+- Download Adobe Flex 3 SDK Opensource Edition
+- Download Adobe AIR 2.5 SDK Opensource Edition
+- Create build.properties in src/ to specify your local setting
+- Create debug.pfx using openssl to contain self-signed certificate using openssl
+- Run ant in src
 
 ### Authors
 
